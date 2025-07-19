@@ -6,13 +6,13 @@ import android.content.Intent
 import android.media.MediaPlayer
 import android.os.Bundle
 import android.transition.Explode
-import android.transition.Transition
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import com.example.rickandmortyretrofit.R
 import com.example.rickandmortyretrofit.databinding.ActivitySplashBinding
+import com.example.rickandmortyretrofit.ui.main.MainActivity
 
 class SplashActivity : AppCompatActivity() {
 

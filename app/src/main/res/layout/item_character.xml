@@ -120,6 +120,7 @@
                     android:orientation="horizontal">
 
                     <com.google.android.material.button.MaterialButton
+                        android:id="@+id/buttonDetalle"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="VER DETALLES"
