@@ -14,9 +14,9 @@ class CharacterDetails(
     @SerializedName("image")
     val imagen: String,
     @SerializedName("location")
-    val locacion : LocationInfo,
+    val locacion: LocationInfo,
     @SerializedName("status")
-    val estatus : String
+    val estatus: String
 )
 
 data class LocationInfo(
